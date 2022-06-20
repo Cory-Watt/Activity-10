@@ -1,0 +1,8 @@
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\obj\Debug\Activity 10.csproj.AssemblyReference.cache
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\obj\Debug\Activity 10.csproj.SuggestedBindingRedirects.cache
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\obj\Debug\Activity 10.csproj.CoreCompileInputs.cache
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\bin\Debug\Activity 10.exe.config
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\bin\Debug\Activity 10.exe
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\bin\Debug\Activity 10.pdb
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\obj\Debug\Activity 10.exe
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 5\Activity 10\Activity 10\obj\Debug\Activity 10.pdb
